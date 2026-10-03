@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ahmad 👋
 
-<!--
-**ahmedramzan5678-eng/ahmedramzan5678-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a 3rd-semester BS Data Science student at the University of Engineering and Technology, Lahore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in programming and data science.. Currently, I am learning and improving my skills in Data Structures and Algorithms and exploring Python libraries such as NumPy and Pandas.
+
+## Skills
+
+- C#
+- Object-Oriented Programming (OOP)
+- Basic Python
+- Git & GitHub
+
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- NumPy
+- Pandas
+- Computer Network
+
+## Education
+
+*BS Data Science*  
+University of Engineering and Technology, Lahore  
+3rd Semester
+
+## GitHub
+
+- GitHub: [ahmedramzan5678-eng](https://github.com/ahmedramzan5678-eng)
